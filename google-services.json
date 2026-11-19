@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942200719892",
+    "project_id": "odin-e1d98",
+    "storage_bucket": "odin-e1d98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942200719892:android:5404f69d5ec1595a757501",
+        "android_client_info": {
+          "package_name": "space.manus.alerta.t008127948750362"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHpialz4ZYBfLfOLv2fNxsF3sQ7BZMRbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
